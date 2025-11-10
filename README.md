@@ -58,13 +58,14 @@ Admins can manage products, view orders, and update order statuses.
    npm install
 
 3. **Configure environment variables**
+ 
     ```bash
     PORT=5000
-MONGO_URI=your_mongodb_connection_string
-STRIPE_SECRET_KEY=your_stripe_secret_key
-CHAPA_SECRET_KEY=your_chapa_secret_key
+   MONGO_URI=your_mongodb_connection_string  
+   STRIPE_SECRET_KEY=your_stripe_secret_key  
+   CHAPA_SECRET_KEY=your_chapa_secret_key
 
-4. **Run the app**
+5. **Run the app**
     ```bash
     # In backend folder
    npm start
@@ -72,11 +73,13 @@ CHAPA_SECRET_KEY=your_chapa_secret_key
    # In frontend folder
    npm start
 ## 💻 Usage
+
 1.Open your browser and go to http://localhost:3000
 2.Browse products, add items to your cart
-3.Checkout securely with Stripe or Chapa
+3.Checkout securely with **Stripe** or **Chapa**
 4.Admins can log in to manage products and orders
 ## 🤝 Contributing
+
    Contributions are welcome!
 To contribute:
 1.Fork the repository
