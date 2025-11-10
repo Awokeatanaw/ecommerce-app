@@ -75,20 +75,28 @@ Admins can manage products, view orders, and update order statuses.
 ## 💻 Usage
 
 1.Open your browser and go to http://localhost:3000
+
 2.Browse products, add items to your cart
+
 3.Checkout securely with **Stripe** or **Chapa**
+
 4.Admins can log in to manage products and orders
 ## 🤝 Contributing
 
    Contributions are welcome!
+   
 To contribute:
+
 1.Fork the repository
+
 2.Create a feature branch
     ```bash
    git checkout -b feature/your-feature-name
+   
 3.Commit your changes
     ```bash
    git commit -m "Add your feature description"
+   
 4.Push to your branch and open a Pull Request
 ## 📄 License
    This project is licensed under the MIT License.
