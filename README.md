@@ -89,13 +89,13 @@ To contribute:
 
 1.Fork the repository
 
-2.Create a feature branch
-    ```bash
+2.Create a new feature branch  
+   ```bash
    git checkout -b feature/your-feature-name
    
 3.Commit your changes
-     ```bash
-    git commit -m "Add your feature description"
+   ```bash
+   git commit -m "Add your feature description"
    
 4.Push to your branch and open a Pull Request
 ## 📄 License
