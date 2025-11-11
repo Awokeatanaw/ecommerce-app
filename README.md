@@ -92,12 +92,13 @@ To contribute:
 2.Create a new feature branch  
    ```bash
    git checkout -b feature/your-feature-name
-   
+   ```
 3.Commit your changes
    ```bash
    git commit -m "Add your feature description"
-   
+   ```
 4.Push to your branch and open a Pull Request
+
 ## 📄 License
    This project is licensed under the MIT License.
 ## 📸 Screenshots
