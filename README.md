@@ -90,10 +90,12 @@ To contribute:
 1.Fork the repository
 
 2.Create a feature branch
-    ```bash
+
+  ```bash
    git checkout -b feature/your-feature-name
    
 3.Commit your changes
+
     ```bash
    git commit -m "Add your feature description"
    
